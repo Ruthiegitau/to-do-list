@@ -27,3 +27,5 @@ $(document).ready(function functionName() {
     $(".hover-view-3").show(500);
   });
 });
+
+// end of section1

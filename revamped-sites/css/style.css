@@ -1,7 +1,10 @@
 body{
   margin-top: 100px;
   background-color: #d6d8db;
+  background-image: url("../img/rev1.jpg");
 }
+
+
 #img1, #img2, #img3 {
   max-height: 300px;
   min-height: 300px;
@@ -29,6 +32,12 @@ body{
 
 .holder-footer-1 li, .holder-footer-2 li, .holder-footer-3 li {
   color: #000;
+  list-style: none;
+  line-height: 100%;
+  margin-top: 7%;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+
 }
 
 #text{
